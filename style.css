@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-size: 10px;
-  background: #ffc600;
+  background: #4267B2;
 }
 
 *, *:before, *:after {
@@ -11,7 +11,7 @@ html {
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Amatic SC', cursive;
+  font-family: arial;
 }
 
 h1 {
@@ -26,6 +26,14 @@ h1 {
   padding: 0 3rem;
   line-height: 1;
   border-radius: 1rem;
+}
+
+.startBtn{
+width: 100px;
+height: 50px;
+margin-top: 1%;
+font-size: 20px;
+background-color: #6785C2;
 }
 
 .game {
